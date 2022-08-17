@@ -1,6 +1,6 @@
 ## This repo contains sample how to run locally a custom plugin to get an external IP as data source.
 
-### Requirments - test
+### Requirments
 
 1. [Vagrant](https://www.vagrantup.com/) installed - it's needed since plugin will be compiled in the VM.
 2. [Virtual Box](https://www.virtualbox.org/) installed.
